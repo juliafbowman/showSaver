@@ -27,16 +27,16 @@ Show Stopper is a Flask-based backend application designed to help users track a
 ## Development Team
 
 ### Frontend Team
-#### **Julia Bowman** - [[GitHub](https://github.com/jbowma24) | [LinkedIn](https://www.linkedin.com/in/juliafbowman/)]
+#### **Julia Bowman** - [[LinkedIn](https://www.linkedin.com/in/juliafbowman/)]
 
-#### **Basil Tiongson** - [[GitHub](https://github.com/btion2) | [LinkedIn](https://www.linkedin.com/in/basiltiongson/)]
+#### **Basil Tiongson** - [[LinkedIn](https://www.linkedin.com/in/basiltiongson/)]
 
 ### Backend Team
-#### **Jason Carmona** - [[GitHub](https://github.com/Jason-Carmona) | [LinkedIn](https://www.linkedin.com/in/cs-jason-carmona/)]
+#### **Jason Carmona** - [[LinkedIn](https://www.linkedin.com/in/cs-jason-carmona/)]
 
-#### **Tam Le** - [[GitHub](https://github.com/tamziy) | [LinkedIn](https://www.linkedin.com/in/tamthanhle/)]
+#### **Tam Le** - [[LinkedIn](https://www.linkedin.com/in/tamthanhle/)]
 
-#### **Brian Li** - [[GitHub](https://github.com/wli189) | [LinkedIn](https://www.linkedin.com/in/weitaoli1/)]
+#### **Brian Li** - [[LinkedIn](https://www.linkedin.com/in/weitaoli1/)]
 
 
 ## Prerequisites
