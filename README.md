@@ -1,19 +1,17 @@
 ```
 Welcome to...
- ____    __                              ____    __                                           
-/\  _`\ /\ \                            /\  _`\ /\ \__                                        
-\ \,\L\_\ \ \___     ___   __  __  __   \ \,\L\_\ \ ,_\   ___   _____   _____      __   _ __  
- \/_\__ \\ \  _ `\  / __`\/\ \/\ \/\ \   \/_\__ \\ \ \/  / __`\/\ '__`\/\ '__`\  /'__`\/\`'__\
-   /\ \L\ \ \ \ \ \/\ \L\ \ \ \_/ \_/ \    /\ \L\ \ \ \_/\ \L\ \ \ \L\ \ \ \L\ \/\  __/\ \ \/ 
-   \ `\____\ \_\ \_\ \____/\ \___x___/'    \ `\____\ \__\ \____/\ \ ,__/\ \ ,__/\ \____\\ \_\ 
-    \/_____/\/_/\/_/\/___/  \/__//__/       \/_____/\/__/\/___/  \ \ \/  \ \ \/  \/____/ \/_/ 
-                                                                  \ \_\   \ \_\               
-                                                                   \/_/    \/_/
-                                                                   
+ ____    __                              ____                                      
+/\  _`\ /\ \                            /\  _`\                                    
+\ \,\L\_\ \ \___     ___   __  __  __   \ \,\L\_\     __     __  __     __   _ __  
+ \/_\__ \\ \  _ `\  / __`\/\ \/\ \/\ \   \/_\__ \   /'__`\  /\ \/\ \  /'__`\/\`'__\
+   /\ \L\ \ \ \ \ \/\ \L\ \ \ \_/ \_/ \    /\ \L\ \/\ \L\.\_\ \ \_/ |/\  __/\ \ \/ 
+   \ `\____\ \_\ \_\ \____/\ \___x___/'    \ `\____\ \__/.\_\\ \___/ \ \____\\ \_\ 
+    \/_____/\/_/\/_/\/___/  \/__//__/       \/_____/\/__/\/_/ \/__/   \/____/ \/_/ 
+                                                                                   
 ```
 
-# What is Show Stopper?
-Show Stopper is a Flask-based backend application designed to help users track and manager their TV show and movie watch history. It integrates The Movie Database (TMDB) API to fetch metadata and uses a local MySQL Database to store user logs, ratings, and statistics.
+# What is Show Saver?
+Show Saver is a Flask-based backend application designed to help users track and manager their TV show and movie watch history. It integrates The Movie Database (TMDB) API to fetch metadata and uses a local MySQL Database to store user logs, ratings, and statistics.
 
 <img width="1424" height="788" alt="480MainPage" src="https://github.com/user-attachments/assets/038012bc-5ce2-4d7c-9109-89014ef21456" />
 
