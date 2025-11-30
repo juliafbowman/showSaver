@@ -15,7 +15,7 @@ Welcome to...
 # What is Show Stopper?
 Show Stopper is a Flask-based backend application designed to help users track and manager their TV show and movie watch history. It integrates The Movie Database (TMDB) API to fetch metadata and uses a local MySQL Database to store user logs, ratings, and statistics.
 
-<img width="1424" height="788" alt="480MainPage" src="https://github.com/user-attachments/assets/92d79edd-374f-4f9c-ae83-99c85d9c8cdc" />
+<img width="1424" height="788" alt="480MainPage" src="https://github.com/user-attachments/assets/038012bc-5ce2-4d7c-9109-89014ef21456" />
 
 ## Features
 - **TMDB Integration** : Search for movies and TV shows, fetch details directly from TMDB.
@@ -140,7 +140,14 @@ GET,/api/stats,Get user watch statistics,None
 - ```dao.py```: Data Access Object. Handles all database connections and SQL Queries
 - ```01_schema.sql```: SQL script for creating the database schema (tables for Title, Genre, Rating, etc.)
 - ```requirements.txt```: List of Python dependencies
-- ```.env```: Configuration file for database credentials 
+- ```.env```: Configuration file for database credentials
+
+## User Interface
+### Search a Title
+![frankSearch](https://github.com/user-attachments/assets/064a17aa-a394-4ef9-9353-9f300990f161)
+
+### Rate a Title
+![frankRating](https://github.com/user-attachments/assets/87fbf89c-1170-4845-a364-7f02e6966052)
 
 ## Notes
 - **TMDB API Key**: The ```app.py``` file currently contains a hardcoded TMBD API Key. For production we would move this key to .env file. But for this project we have decided to just hardcode it.
