@@ -1,0 +1,101 @@
+############################################
+# NODE / JAVASCRIPT
+############################################
+
+# Dependencies
+node_modules/
+
+# NPM / Yarn / PNPM
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs
+dist/
+build/
+out/
+.next/
+coverage/
+
+# Caches
+.cache/
+.npm/
+.yarn/
+.eslintcache
+.vite/
+.parcel-cache/
+.turbo/
+babel-cache/
+
+# Logs
+logs/
+*.log
+
+############################################
+# FRONTEND FRAMEWORKS
+############################################
+
+# React / CRA
+.tmps/
+.snowpack/
+.webpack/
+
+# Svelte / Vite
+.svelte-kit/
+
+############################################
+# PYTHON
+############################################
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+pip-wheel-metadata/
+
+############################################
+# DATABASES / LOCAL DATA
+############################################
+
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+############################################
+# ENV CONFIG
+############################################
+
+.env
+.env.local
+.env.production
+.env.development
+
+############################################
+# OS NOISE
+############################################
+
+.DS_Store
+Thumbs.db
+Icon?
+
+############################################
+# IDE / EDITOR
+############################################
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+############################################
+# MISC
+############################################
+
+*.tgz
+*.bak
+*.tmp
